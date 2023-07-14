@@ -1,6 +1,6 @@
 # Nutze OpenAIs GPT-4 als D&D Dungeon Master (Spielleiter)
 
-Dies ist ein einfaches Skript, umd die API von openAI (GPT-4) als Spielleiter (Dungeon-Master) für das Spiel Dungeons and Dragons zu nutzen.
+Dies ist ein einfaches Skript, um die API von openAI (GPT-4) als Spielleiter (Dungeon-Master) für das Spiel Dungeons and Dragons zu nutzen.
 
 # Voraussetzung
 - Du benötigst einen API-Key von OpenAI und mindestens zugriff auf GPT-4
